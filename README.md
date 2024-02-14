@@ -7,7 +7,7 @@
 - Backend: Java Spring Boot Framework 
 - Database: MySQL
 
-**List of Operations**
+**Operations**
 - Create a New Task
 - Read all Tasks
 - Update Existing Task
